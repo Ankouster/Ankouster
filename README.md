@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F76D&width=435&lines=%F0%9F%92%BB+WELCOME+TO+ANKOUSTER+%F0%9F%92%BB;%F0%9F%92%96+LINUX+LOVER+%F0%9F%92%96;%F0%9F%92%96+CIBERSEGURITY+LOVER+%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F76D&width=435&lines=%F0%9F%92%BB+WELCOME+TO+AUSSTERBEN+%F0%9F%92%BB;%F0%9F%92%96+LINUX+LOVER+%F0%9F%92%96;%F0%9F%92%96+CIBERSEGURITY+LOVER+%F0%9F%92%96)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.3QA08v53djA6ybkAnTB9qwHaFL%26pid%3DApi&f=1&ipt=b5cc54af4f55d3683f6c6968750d66d7f00d8a4525ba865bc0b0b4b4d995ebfe&ipo=images"  />
